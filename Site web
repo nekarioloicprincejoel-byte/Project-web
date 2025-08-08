@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon mini site</title>
+  <style>
+    body {
+      background-color: #222;
+      color: white;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #00ffcc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue NEKARIO !</h1>
+  <p>Voici mon tout premier site web 🎉</p>
+</body>
+</html>
