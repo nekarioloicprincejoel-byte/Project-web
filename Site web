@@ -1,23 +1,35 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <title>Mon mini site</title>
-  <style>
-    body {
-      background-color: #222;
-      color: white;
-      font-family: sans-serif;
-      text-align: center;
-      padding: 50px;
-    }
-    h1 {
-      color: #00ffcc;
-    }
-  </style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nom de ton mini-site</title>
+  <meta name="description" content="Courte description de ton activité" />
+  <link rel="icon" href="favicon.ico" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Bienvenue NEKARIO !</h1>
-  <p>Voici mon tout premier site web 🎉</p>
+  <header>
+    <h1>TonNom / TonEntreprise</h1>
+    <p>Service : coiffure • maquillage • vente</p>
+  </header>
+
+  <main>
+    <section id="services">
+      <h2>Mes services</h2>
+      <ul>
+        <li>Tressage — prix</li>
+        <li>Maquillage — prix</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <a href="https://wa.me/23772617013">Contact WhatsApp</a>
+      <p>Email: tonemail@example.com</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
 </body>
 </html>
