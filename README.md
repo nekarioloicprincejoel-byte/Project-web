@@ -2,34 +2,44 @@ index.html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>NK Production</title>
-                <link rel="stylesheet" href="style.css">
-                </head>
-                <body>
-                    <header>
-                            <h1>Bienvenue chez NK Production</h1>
-                                    <p>Créativité, innovation et professionnalisme</p>
-                                        </header>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NK Production</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
 
-                                            <nav>
-                                                    <ul>
-                                                                <li><a href="#accueil">Accueil</a></li>
-                                                                            <li><a href="#services">Services</a></li>
-                                                                                        <li><a href="#contact">Contact</a></li>
-                                                                                                </ul>
-                                                                                                    </nav>
+    <h1>Bienvenue chez NK Production</h1>
+    <p>Nos activités consistent à développer des applications et des mini jeux, créer des minis site web,</p>
+  </header>
+            <li><a href="#accueil">Accueil</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+                                
+  <main>
+    <section>
+      <h2>Nos services</h2>
+      <ul>
+        <li>Service 1 : Développer des Applications</li>
+        <li>Service 2 : Créer des minis site web</li>
+            <li>Service 3 : Créer des minis </li>
+      </ul>
+    </section>
 
-                                                                                                        <section id="accueil">
-                                                                                                                <h2>À propos</h2>
-                                                                                                                        <p>NK Production est spécialisée dans la création de contenu, le développement d'applications et la production multimédia.</p>
-                                                                                                                            </section>
+    <section>
+      <h2>Contact</h2>
+      <p>Email : nekarioloicprincejoel@gmai.com</p>
+              <p>Facebook : Loïc Prince Joël NEKARIO</p>
+      <p><a href="https://wa.me/237XXXXXXXXX">Whatsapp : +23672239595/+23672130432</a></p>
+</section>
+  </main>
 
-                                                                                                                                <section id="services">
-                                                                                                                                        <h2>Nos Services</h2>
-                                                                                                                                                <ul>
-                                                                                                                                                            <li>Développement Web</li>
+  <footer>
+    <p>&copy; 2025 Loïc Prince Joël NEKARIO / Mon Entreprise : NK Production</p>
+  </footer>
+</body>
+</html>
                                                                                                                                                                         <li>Production vidéo</li>
                                                                                                                                                                                     <li>Marketing digital</li>
                                                                                                                                                                                             </ul>
